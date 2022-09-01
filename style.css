@@ -72,11 +72,13 @@ h4 {
   font-size: 14px;
   margin: 0;
   padding: 0;
+  
 }
 .content {
   margin: 30px;
   margin-top: 0;
 }
+
 h3 {
   font-size: 24px;
 }
@@ -90,6 +92,21 @@ p {
   line-height: 30px;
   text-align: center;
   font-size: 16px;
+}
+ul {
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+  color: #272142;
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  
+}
+
+li {
+  font-size: 14px;
 }
 
 
